@@ -1,0 +1,14 @@
+.row{
+    background-color: aliceblue;
+    text-align: center;
+    margin: auto;
+}
+.ima{
+    width: 20rem;
+    margin: auto;
+    display: flex;
+}
+.para{
+    text-align: center;
+    color:blueviolet;
+}
